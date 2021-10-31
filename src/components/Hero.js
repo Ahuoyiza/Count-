@@ -1,11 +1,8 @@
 import React from 'react';
 import{ 
-    Flex,
-    Box,
-    Text,
-    Heading,
+
     Image,
-    Button,
+  
   } from '@chakra-ui/react';
 import './Hero.css';
 const Hero = () => {
